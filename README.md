@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactarme a través de mi LinkedIn [www.linkedin.com/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
 
-- 💬 Puedes preguntarme sobre tecnologías como **HTML, CSS, Javascript, Reactjs, PHP**
+- 💬 Me siento cómodo trabajando con **HTML, CSS, Javascript, Reactjs, PHP**
 
 - ⚡ Otros datos sobre mi: **Me encanta la tecnología. Soy una persona muy curiosa, por lo que siempre estoy experimentando algo nuevo con cada avance. Cuando no estoy programando me gusta disfrutar de una terraza al sol 🌞 o jugar a videojuegos🎮 con amigos**
 
