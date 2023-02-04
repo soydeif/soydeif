@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es David Diaz</h1>
-<h3 align="center">Soy Frontend Developer. Actualmente resido en España</h3>
+<h3 align="center">Soy Frontend Developer.</h3>
 
 - 🔭Actualmente estoy trabajando en **email marketing**
 
