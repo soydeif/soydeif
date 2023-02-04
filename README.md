@@ -5,7 +5,7 @@
 
 - 👨‍💻 Disfruto de aprender. En estos momentos estoy descubriendo **Nextjs**
 
-- 📫 Puedes contactarme a través de mi LinkedIn [www.linkedin.com/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
+- 📫 Puedes contactarme a través de mi LinkedIn [/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
 
 - 💬 Puedes preguntarme sobre tecnologías como **HTML, CSS, Javascript, Reactjs, PHP**
 
