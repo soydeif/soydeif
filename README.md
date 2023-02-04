@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Mi nombre es David Diaz</h1>
 <h3 align="center">Soy Frontend Developer.</h3>
 
-- 🔭Actualmente estoy trabajando en **email marketing**
+- 🔭 Actualmente estoy trabajando en una empresa enfocada en **email marketing**
 
-- 👨‍💻 Actualmente estoy estudiando **Nextjs**
+- 👨‍💻 Disfruto de aprender. En estos momentos estoy descubriendo **Nextjs**
 
-- 📫 Puedes contactarme a traves de mi LinkedIn [www.linkedin.com/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
+- 📫 Puedes contactarme a través de mi LinkedIn [www.linkedin.com/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
 
 - 💬 Puedes preguntarme sobre tecnologías como **HTML, CSS, Javascript, Reactjs, PHP**
 
