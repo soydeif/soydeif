@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Mi nombre es David Diaz</h1>
 <h3 align="center">Soy Frontend Developer.</h3>
 
-- 🔭 Actualmente estoy trabajando en una empresa enfocada en **email marketing**
+- 🔭 Actualmente estoy trabajando dentro de una empresa, cuyo producto esta enfocado en aportar **soluciones digitales** para medios digitales. 
 
-- 👨‍💻 Disfruto de aprender. En estos momentos estoy descubriendo **Nextjs**
+- 👨‍💻 En estos momentos estoy trabajando con **Nextjs** 
 
 - 📫 Puedes contactarme a través de mi LinkedIn [www.linkedin.com/in/daviddiaznava](www.linkedin.com/in/daviddiaznava)
 
-- 💬 Me siento cómodo trabajando con **HTML, CSS, Bootstrap, Javascript, Reactjs, PHP**
+- 💬 Me siento cómodo trabajando con **HTML, CSS, SASS, Bootstrap, Javascript, Reactjs, Nextjs** y estoy abierto siempre a aprender.
 
 - ⚡ Otros datos sobre mi: **Me encanta la tecnología. Soy una persona muy curiosa, por lo que siempre estoy experimentando algo nuevo con cada avance. Cuando no estoy programando me gusta disfrutar de una terraza al sol 🌞 o jugar a videojuegos🎮 con amigos**
 
