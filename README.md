@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es David Diaz</h1>
 <h3 align="center">Soy Frontend Developer.</h3>
 
-- 🔭 Actualmente estoy trabajando dentro de una empresa, cuyo producto esta enfocado en aportar **soluciones digitales** para medios digitales. 
+- 🔭 Actualmente estoy trabajando dentro de una empresa, cuyo producto esta enfocado en aportar **soluciones digitales** para medios de comunicación. 
 
 - 👨‍💻 En estos momentos estoy trabajando con **Nextjs** 
 
